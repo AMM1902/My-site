@@ -113,11 +113,12 @@ main p::first-letter{
     margin: 10px;
     padding: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    text-align: center;
 }
 
-.element+p:has(img){
+.element p:has(img){
     line-height: 1;
+    text-indent: 0;
+    text-align: center;
 }
 
 .location img{
