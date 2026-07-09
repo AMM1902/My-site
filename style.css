@@ -142,6 +142,11 @@ img{
     height: auto;
 }
 
+.photo-label{
+    font-size: 12px;
+    font-weight: bold;
+}
+
 .photo-credit{
     font-size: 8px;
     line-height: 1;
