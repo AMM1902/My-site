@@ -99,7 +99,7 @@ main p::first-letter{
     /* align-items: center; */
 }
 
-.flex-column-container:has(img){
+.element:has(img){
     /*justify-content: center;
     align-items: center;*/
     text-indent: 0;
@@ -124,14 +124,6 @@ main p::first-letter{
 
 .element+p:has(img){
     line-height: 1;
-}
-
-.location{
-    margin: 10px;
-    padding: 20px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    text-align: center;
-    text-indent: 0;
 }
 
 .location img{
