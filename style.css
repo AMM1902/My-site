@@ -78,16 +78,6 @@ main p::first-letter{
     font-weight: bold;
 }
 
-.dark-mode-toggle {
-    position: sticky;
-    top: 10px;
-    right: 10px;
-    background-color: #fff;
-    border: none;
-    padding: 5px 10px;
-    cursor: pointer;
-}
-
 .imp{
     font-weight: bold;
     color: red;
@@ -97,25 +87,25 @@ main p::first-letter{
     color: #0af;
 }
 
-.product-container{
+.flex-row-container{
     display: flex;
     flex-flow: column wrap;
 }
 
-.product-dp, .product-img, .geo-box{
+.flex-column-container{
     display: flex;
     flex-flow: row wrap;
     /* justify-content: center; */
     /* align-items: center; */
 }
 
-.product-img{
+.flex-column-container:has(img){
     /*justify-content: center;
     align-items: center;*/
     text-indent: 0;
 }
 
-.product img{
+.element img{
     height: 100%;
     max-height: 200px;
     width: 100%;
@@ -124,30 +114,7 @@ main p::first-letter{
     aspect-ratio: 1/1;
 }
 
-.card{
-    margin: 10px;
-    padding: 20px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    text-align: center;
-    text-indent: 0;
-}
-
-.card img{
-    height: 300px;
-    max-width: 80%;
-}
-
-.card:first-child{
-    flex: 2;
-    justify-content: center;
-    margin: auto 0;
-}
-
-.card:last-child{
-    flex: 1;
-}
-
-.product{
+.element{
     flex: 1;
     margin: 10px;
     padding: 10px;
@@ -155,8 +122,32 @@ main p::first-letter{
     text-align: center;
 }
 
-.product+p:has(img){
+.element+p:has(img){
     line-height: 1;
+}
+
+.location{
+    margin: 10px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    text-indent: 0;
+}
+
+.location img{
+    height: 300px;
+    max-width: 80%;
+    border-radius: 0;
+}
+
+.location:first-child{
+    flex: 2;
+    justify-content: center;
+    margin: auto 0;
+}
+
+.location:last-child{
+    flex: 1;
 }
 
 img{
