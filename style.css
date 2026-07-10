@@ -150,11 +150,27 @@ img{
 }
 
 #reading{
-    text-align: right;
     background-image: url(./icon/read.png);
     background-repeat: no-repeat;
     background-size: 20% auto;
-    background-position: left 10% top 15%;
+    background-position: right 5% top 15%;
+}
+
+.novel{
+    min-height: 420px;
+}
+
+.cover img{
+    max-height: 80%;
+    min-height: 350px;
+}
+
+.cover{
+    flex: 2;
+}
+
+.descript{
+    flex: 3;
 }
 
 .photo-label{
