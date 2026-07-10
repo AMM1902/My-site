@@ -74,7 +74,7 @@ main p{
 }
 
 main p::first-letter{
-    font-size: 200%;
+    font-size: 150%;
     font-weight: bold;
 }
 
