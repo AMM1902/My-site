@@ -86,7 +86,8 @@ main p::first-letter{
 }
 
 .imp:hover{
-    color: #0af;
+    color: #44edcd;
+    text-decoration: underline;
 }
 
 .flex-row-container{
