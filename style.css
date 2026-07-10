@@ -210,18 +210,18 @@ img{
 }
 
 table{
-    background-color: #111;
+    background-color: #483D8B;
     margin: 0 auto;
-    width:80%;
+    width:100%;
     text-align: center;
 }
 
 th{
-    background-color: #eee;
+    background-color: #00008B;
 }
 
 td{
-    background-color: #aaa;
+    background-color: #191970;
 }
 
 address{
