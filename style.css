@@ -15,7 +15,7 @@ h1, h2, #sch-lnk, address, nav{
     text-align: center;
 }
 
-h1, h2, h3{
+h1, h2, h3, nav li{
     font-family: 'Gill Sans', 'Sawarabi Mincho', serif;
 }
 
