@@ -101,15 +101,6 @@ main p::first-letter{
     /* align-items: center; */
 }
 
-.town img{
-    height: 100%;
-    max-height: 200px;
-    width: 100%;
-    max-width: 200px;
-    border-radius: 10px;
-    aspect-ratio: 1/1;
-}
-
 .element{
     flex: 1;
     margin: 10px;
@@ -121,6 +112,15 @@ main p::first-letter{
 .element p:has(img){
     line-height: 1;
     text-indent: 0;
+}
+
+.town img{
+    height: 100%;
+    max-height: 200px;
+    width: 100%;
+    max-width: 200px;
+    border-radius: 10px;
+    aspect-ratio: 1/1;
 }
 
 .location img{
@@ -146,6 +146,18 @@ img{
 
 .hobby p{
     text-indent: 0;
+}
+
+#music li{
+    list-style-type: "\266B";
+    padding-left: 1em;
+    margin-bottom: 0.5em;
+}
+
+#reading li{
+    list-style-type: "\1F4D6";
+    padding-left: 1em;
+    margin-bottom: 0.5em;
 }
 
 #music{
