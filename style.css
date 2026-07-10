@@ -1,7 +1,7 @@
 html, body{
     margin: 0;
     padding: 0;
-    background-color: #040348;
+    background: linear-gradient(to right , #040348, #5c1c00, #00382d);
     color: #fff;
 }
 
@@ -35,7 +35,7 @@ p, li{
 }
 
 #sch-lnk:has(a:hover), nav li:has(a:hover){
-    background-color: #eee;
+    background-color: #aaa;
 }
 
 a{
@@ -45,7 +45,7 @@ a{
 }
 
 a:hover, a:focus{
-    color: #0af;
+    color: #040348;
     text-decoration: underline;
 }
 
@@ -210,18 +210,19 @@ img{
 }
 
 table{
-    background-color: #483D8B;
+    background-color: #fdf7ff;
     margin: 0 auto;
     width:100%;
     text-align: center;
 }
 
 th{
-    background-color: #00008B;
+    background-color: #fffade;
+    color:#040348;  
 }
 
 td{
-    background-color: #191970;
+    background-color: #988ab5;
 }
 
 address{
