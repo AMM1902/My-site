@@ -1,0 +1,2 @@
+[Yaekyi_Oo_Pagoda_001.jpg](./image/Yaekyi_Oo_001.jpg) Tetsuya Kitahata - 投稿者自身による著作物, CC 表示-継承 4.0, https://commons.wikimedia.org/w/index.php?curid=57279862による
+[Shwemokhtaw_Pagoda.jpg](./image/Shwemokhtaw_Pagoda.jpg) Phyo WP, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons
