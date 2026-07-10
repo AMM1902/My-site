@@ -142,6 +142,10 @@ img{
     height: auto;
 }
 
+.hobby p{
+    text-indent: 0;
+}
+
 #music{
     background-image: url(./icon/music-note.png);
     background-repeat: no-repeat;
@@ -163,6 +167,10 @@ img{
 .cover img{
     max-height: 80%;
     min-height: 350px;
+}
+
+.cover p a{
+    line-height: 1.5;
 }
 
 .cover{
