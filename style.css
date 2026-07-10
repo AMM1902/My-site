@@ -151,6 +151,10 @@ img{
 
 #reading{
     text-align: right;
+    background-image: url(./icon/read.png);
+    background-repeat: no-repeat;
+    background-size: 20% auto;
+    background-position: left 10% top 15%;
 }
 
 .photo-label{
