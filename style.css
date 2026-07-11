@@ -44,9 +44,9 @@ a{
     padding: 5px;
 }
 
-a:hover, a:focus{
-    color: #040348;
-    text-decoration: underline;
+a:hover,a:focus{
+    color: #e36a4e;
+    text-decoration: none;
 }
 
 nav{
