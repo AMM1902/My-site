@@ -102,6 +102,33 @@ main p::first-letter{
     text-align: center;
 }
 
+.profile{
+    flex: 2;
+    padding: 10px 20px;
+    align-content: center; 
+}
+
+#profile-table{
+    width: 100%;
+}
+
+#profile-table td{
+    padding: 15px 5px;
+}
+
+.profile-pic{
+    flex: 1;
+    box-shadow: none;
+}
+
+.profile-pic img{
+    
+    border-radius: 30px;
+    max-height: 300px;
+    box-shadow: 5px 5px 10px rgba(255, 255, 255, 0.9);
+
+}
+
 .element p:has(img){
     line-height: 1;
     text-indent: 0;
