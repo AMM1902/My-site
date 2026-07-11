@@ -35,18 +35,19 @@ p, li{
 }
 
 #sch-lnk:has(a:hover), nav li:has(a:hover){
-    background-color: #aaa;
+    background-color: #bbb;
 }
 
 a{
     text-decoration: none;
-    color: #fff;
+    background-image: linear-gradient(to right, #f9f871, #fbb04d, #e36a4e, #b12d56, #6a0458);
+    color: transparent;
+    background-clip: text;
     padding: 5px;
 }
 
 a:hover, a:focus{
-    color: #e36a4e;
-    text-decoration: none;
+    text-decoration: underline;
 }
 
 nav{
@@ -83,11 +84,6 @@ main p::first-letter{
 .imp{
     font-weight: bold;
     color: red;
-}
-
-.imp:hover{
-    color: #44edcd;
-    text-decoration: underline;
 }
 
 .flex-row-container{
