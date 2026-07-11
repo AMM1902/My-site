@@ -3,6 +3,7 @@ html, body{
     padding: 0;
     background: linear-gradient(to right , #040348, #5c1c00, #00382d);
     color: #eaeaea;
+    font-family: 'M PLUS 1p', sans-serif;
 }
 
 main, .repo-intro {
@@ -19,11 +20,6 @@ h1, h2, #sch-lnk, address, nav{
 
 h1, h2, h3, nav li{
     font-family: 'Gill Sans', 'Sawarabi Mincho', serif;
-}
-
-
-p, li{
-    font-family: 'M PLUS 1p', sans-serif;
 }
 
 #sch-lnk{
