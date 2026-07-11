@@ -206,19 +206,19 @@ img{
     padding: 0;
 }
 
-table{
+#population{
     background-color: #fdf7ff;
     margin: 0 auto;
     width:100%;
     text-align: center;
 }
 
-th{
+#population th{
     background-color: #fffade;
     color:#040348;  
 }
 
-td{
+#population td{
     background-color: #988ab5;
 }
 
