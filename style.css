@@ -139,6 +139,10 @@ main p::first-letter{
     max-height: 400px;
 }
 
+.activity img{
+    max-width: 100px;
+}
+
 .element p:has(img){
     line-height: 1;
     text-indent: 0;
