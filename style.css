@@ -200,6 +200,14 @@ img{
     background-position: right 25% top 15%;
 }
 
+.element:has(iframe){
+    box-shadow: none;
+}
+
+iframe{
+    border-radius: 10px;
+}
+
 #reading{
     background-image: url(./icon/read.png);
     background-repeat: no-repeat;
@@ -215,6 +223,7 @@ img{
 .cover img{
     max-height: 480px;
     min-height: 350px;
+    border-radius: 10px;
 }
 
 .cover p a{
