@@ -4,6 +4,6 @@
 - [Shwemokhtaw_Pagoda.jpg](./image/Shwemokhtaw_Pagoda.jpg) By Phyo WP - Own work, CC BY-SA 4.0, [source](https://commons.wikimedia.org/w/index.php?curid=40102870)
 - [musical-note.png](./icon/musical-note.png) Music icons created by [Freepik - Flaticon](https://www.flaticon.com/free-icons/musical-note)
 - [read.png](./icon/read.png) Reading icons created by [Freepik - Flaticon](https://www.flaticon.com/free-icons/reading)
-- [email.png](./icon/email.png), [system.png](./icon/system.png) Email icons, Activity icons created by [Uniconlabs - Flaticon Email icons](https://www.flaticon.com/free-icons/email) [Uniconlabs -Flaticon Activity icons](https://www.flaticon.com/free-icons/activity)
-- [cybersecurity.png](./icon/cybersecurity.png) Cybersecurity icons created by [Dewi Sari - Flaticon](https://www.flaticon.com/free-icons/cybersecurity
-- <a href="https://www.flaticon.com/free-icons/system" title="system icons">System icons created by Design Circle - Flaticon</a>)
+- [email.png](./icon/email.png) Email icon created by [Uniconlabs - Flaticon Email icons](https://www.flaticon.com/free-icons/email) 
+- [cybersecurity.png](./icon/cybersecurity.png) Cybersecurity icons created by [Dewi Sari - Flaticon](https://www.flaticon.com/free-icons/cybersecurity)
+- [system-integration.png](./icon/system-integration.png) System icons created by [Design Circle - Flaticon](https://www.flaticon.com/free-icons/system)
