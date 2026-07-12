@@ -222,8 +222,13 @@ img{
     flex: 3;
 }
 
+.dream{
+    align-items: center;
+}
+
 .study{
     flex: 2;
+    padding: 20px 20px;
 }
 
 .study-icon{
