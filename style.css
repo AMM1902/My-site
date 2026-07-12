@@ -147,8 +147,7 @@ main p::first-letter{
 }
 
 .location img{
-    height: 300px;
-    max-width: 80%;
+    max-height: 300px;
     border-radius: 0;
 }
 
@@ -219,7 +218,7 @@ img{
     flex: 3;
 }
 
-.photo-label{
+.photo-label, figcaption{
     font-size: 12px;
     font-weight: bold;
 }
