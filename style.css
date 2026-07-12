@@ -221,6 +221,16 @@ img{
     flex: 3;
 }
 
+.study-icon{
+    box-shadow: none;
+}
+
+.study-icon img{
+    background-color: transparent;
+    border-radius: 25%;
+    box-shadow: 10px 10px 10px rgba(255, 255, 255, 0.9);
+}
+
 .photo-label, figcaption{
     font-size: 12px;
     font-weight: bold;
