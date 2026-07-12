@@ -7,3 +7,6 @@
 - [email.png](./icon/email.png) Email icon created by [Uniconlabs - Flaticon Email icons](https://www.flaticon.com/free-icons/email) 
 - [cybersecurity.png](./icon/cybersecurity.png) Cybersecurity icons created by [Dewi Sari - Flaticon](https://www.flaticon.com/free-icons/cybersecurity)
 - [system-integration.png](./icon/system-integration.png) System icons created by [Design Circle - Flaticon](https://www.flaticon.com/free-icons/system)
+- [coding.png](./icon/coding.png) Software development icons created by [Freepik - Flaticon](https://www.flaticon.com/free-icons/software-development)
+- [japanese-alphabet.png](./icon/japanese-alphabet.png) Hiragana icons created by [riajulislam - Flaticon](https://www.flaticon.com/free-icons/hiragana)
+- [certificate.png](./icon/certificate.png) Certificate icons created by [Freepik - Flaticon](https://www.flaticon.com/free-icons/certificate)
