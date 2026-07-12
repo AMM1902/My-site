@@ -14,7 +14,7 @@ main, .repo-intro {
 
 }
 
-h1, h2, #sch-lnk, address, nav{
+h1, h2, h3, #sch-lnk, address, nav{
     text-align: center;
 }
 
@@ -221,7 +221,12 @@ img{
     flex: 3;
 }
 
+.study{
+    flex: 2;
+}
+
 .study-icon{
+    flex: 1;
     box-shadow: none;
 }
 
