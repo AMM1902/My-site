@@ -251,19 +251,10 @@ img{
 }
 
 #population{
-    background-color: #fdf7ff;
+    /*background-image: linear-gradient(to left bottom, #970d5c, #841664, #6e1e6a, #56246c, #3b276b, #2d3373, #1b3c78, #00457b, #005a88, #006f8e, #00828f, #32948e);*/
     margin: 0 auto;
     width:100%;
     text-align: center;
-}
-
-#population th{
-    background-color: #fffade;
-    color:#040348;  
-}
-
-#population td{
-    background-color: #988ab5;
 }
 
 .repo-intro{
