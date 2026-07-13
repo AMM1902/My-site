@@ -221,6 +221,7 @@ iframe{
 }
 
 .cover img{
+    max-height: 600px;
     min-height: 350px;
     border-radius: 10px;
 }
