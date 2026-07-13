@@ -217,11 +217,10 @@ iframe{
 
 .novel{
     min-height: 420px;
-    max-height: 600px;
+    min-height: 600px;
 }
 
 .cover img{
-    max-height: 480px;
     min-height: 350px;
     border-radius: 10px;
 }
