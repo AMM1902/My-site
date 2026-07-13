@@ -226,8 +226,8 @@ iframe{
     border-radius: 10px;
 }
 
-.cover p a{
-    line-height: 1.5;
+.cover p {
+    line-height: 2;
 }
 
 .cover{
