@@ -49,6 +49,10 @@ a:hover, a:focus{
     background-clip: text;
 }
 
+.is-here{
+    background-color: #444444aa;
+}
+
 nav{
     padding: 10px 0;
 }
